@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     while (true) {
 
+        prenom = prompt('Entrez un prénom : ');
+
         
     }
 
