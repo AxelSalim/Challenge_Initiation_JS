@@ -8,7 +8,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
         prenom = prompt('Entrez un prénom : ');
 
-        
+        if (prenom) {
+            
+        }
+        else {
+            
+        }
     }
 
 });
